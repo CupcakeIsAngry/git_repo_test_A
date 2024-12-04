@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 
 def customfunc(event):
 
-    logger.info("Begin function customfunc")
+    logger.info("Begin function customfunc TEST")
     # do your code here
 
     logger.info("END function customfunc")
